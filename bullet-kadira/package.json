@@ -1,0 +1,26 @@
+{
+  "name": "bullet-kadira",
+  "version": "1.0.0",
+  "description": "Bullet-Kadira tutorial",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jacklinton/Tutorial-Bulletproof-Meteor.git"
+  },
+  "keywords": [
+    "kadira",
+    "meteor"
+  ],
+  "author": "Kadira",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jacklinton/Tutorial-Bulletproof-Meteor/issues"
+  },
+  "homepage": "https://github.com/jacklinton/Tutorial-Bulletproof-Meteor#readme",
+  "dependencies": {
+    "babel-runtime": "^6.23.0"
+  }
+}
